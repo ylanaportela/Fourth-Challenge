@@ -1,0 +1,106 @@
+@media (min-width: 1024px){
+  body{
+    background-color: #F9FAFF;
+  }
+
+  /* Section top*/
+  .top{
+    padding-top: 3%;
+  }
+
+  .text{
+    margin-top: 3%;
+  }
+  
+  .text h2{
+    margin-bottom: 1%;
+  }
+
+  .text-paragraph{
+    display: flex;
+    justify-content: center;
+  }
+
+  /*Section frame*/
+
+  .frame{
+    height: 50%;
+    width: 40%;
+    min-width: 30%;
+    padding-top: 4%;
+    bottom: 20%;
+  }
+
+  .cost-monthly{
+    margin-bottom: 14%;
+  }
+
+  .informations{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .value-range{
+    align-self: center;
+    margin-bottom: 0;
+  }
+
+  .price{
+    margin: 0;
+  }
+
+  .value-price p:last-child{
+    width: 60px;
+    margin: 0;
+  }
+
+  .slidecontainer{
+    bottom: -20px;
+  }
+
+  .cost-year-discount{
+    width: 60%;
+    height: 7%;
+    margin-left: 30%;
+    margin-bottom: 7%;
+  }
+
+  .discount{
+    width: 22%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 10px;
+    padding: 0;
+  }
+
+  hr{
+    margin: 0;
+  }
+
+  .text-discount{
+    display: block;
+  }
+
+  .services{
+    display: flex;
+    align-items: center;
+  }
+
+  ul{
+    width: 50%;
+  }
+  
+  li{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    text-align: left;
+  }
+
+  button{
+    width: 30%;
+    margin: 0 auto;
+  }
+}
