@@ -21,7 +21,7 @@ body{
 
 .top{
   height: 50%;
-  background-image: url("/Fourth/images/bg-pattern.svg");  
+  background-image: url("/images/bg-pattern.svg");  
   background-repeat: no-repeat;
   background-position-x: left;
   background-size: cover;
@@ -34,7 +34,7 @@ body{
 .title{
   height: 100%;
   min-width: 100%;
-  background-image: url("/Fourth/images/pattern-circles.svg");
+  background-image: url("/images/pattern-circles.svg");
   background-repeat: no-repeat;
   background-position-x: center;
 }
@@ -130,7 +130,7 @@ input[type=range]::-webkit-slider-thumb {
   min-height: 40px;
   width: 40px;
   border-radius: 50%;
-  background-image: url("/Fourth/images/icon-slider.svg");
+  background-image: url("/images/icon-slider.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #10D8C4;
@@ -267,7 +267,7 @@ hr{
 }
 
 ul{
-  list-style:url("/Fourth/images/icon-check.svg");
+  list-style:url("/images/icon-check.svg");
   list-style-position: inside;
   padding: 0;
 }
